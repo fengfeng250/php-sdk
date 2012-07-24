@@ -1,4 +1,12 @@
-We have created a new repository for this project: https://github.com/facebook/facebook-php-sdk.  Please update anything you have pointing at this repostory to this location before April 1, 2012.
+--------
+--------
+This version o the PHP SDK has been deprecated.
+
+We have created a new repository for this project: https://github.com/facebook/facebook-php-sdk.
+
+To see the repository in its previously published state, please see the [deprecated](https://github.com/facebook/php-sdk/tree/deprecated) branch.
+--------
+--------
 
 Facebook PHP SDK (v.3.1.1)
 ==========================
