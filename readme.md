@@ -1,6 +1,6 @@
 --------
 --------
-This version o the PHP SDK has been deprecated.
+This version of the PHP SDK has been deprecated.
 
 We have created a new repository for this project: https://github.com/facebook/facebook-php-sdk.
 
